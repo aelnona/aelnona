@@ -2,7 +2,7 @@
 
 Hi, I'm Aaron ;
 
-I study computer science and am very interested in AI and digital forensics. Currently, I am in sixth form, taking A levels for maths, computer science, chemistry, and biology.
+I study computer science and am very interested in AI and digital forensics. Currently, I am in sixth form, taking A levels for maths, computer science, chemistry, and biology. I'd like to work on neurorobotics or in a field of neuromorphic engineering. 
 
 I mainly use Alpine Linux, but have experience with Gentoo Linux and Debian-based distributions of Linux, and some small experience with Plan9 (specifically Plan9Front), having experimented with it for a time on a Thinkpad x61 and a Raspberry Pi.
 
